@@ -3,3 +3,5 @@ build
 obj_dir
 sim
 *.vcd
+sram-multi-counter/logs/
+fifo/logs/
